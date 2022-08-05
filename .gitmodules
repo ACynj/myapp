@@ -1,0 +1,3 @@
+[submodule "submoduleTest/hmui"]
+	path = submoduleTest/hmui
+	url = https://github.com/ACynj/hmui.git
